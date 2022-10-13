@@ -1,0 +1,15 @@
+.header__list {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #bc4123;
+}
+
+.list__link {
+  display: block;
+  padding: 24px;
+}
+.list__link:hover {
+  color: white;
+  background-color: #84301b;
+  transition: .4s;
+}
