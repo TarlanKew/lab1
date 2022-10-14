@@ -7,7 +7,6 @@
 .me__heading {
   font-size: 48px;
 }
-
 .me__subheading {
   padding-top: 8px;
 }
@@ -22,6 +21,7 @@
 }
 .me__btn:hover {
   cursor: pointer;
+  background-color: #db451f;
 }
 .me__btn:active {
   background-color: #84301b;
