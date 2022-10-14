@@ -22,6 +22,7 @@
 .me__btn:hover {
   cursor: pointer;
   background-color: #db451f;
+  color: white;
 }
 .me__btn:active {
   background-color: #84301b;
