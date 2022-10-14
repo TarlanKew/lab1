@@ -4,6 +4,7 @@
 @import url(./me.css);
 @import url(./about.css);
 @import url(./stack.css);
+@import url(./footer.css);
 
 * {
   padding: 0;
